@@ -36,6 +36,8 @@ function getAchives() {
     })
 }
 
+// 经典台词
+
 function getHitokoto() {
     $.ajax({
         url: "https://v1.hitokoto.cn/",
@@ -78,6 +80,8 @@ Date.prototype.Format = function (fmt) { //author: meizz
         if (new RegExp("(" + k + ")").test(fmt)) fmt = fmt.replace(RegExp.$1, (RegExp.$1.length == 1) ? (o[k]) : (("00" + o[k]).substr(("" + o[k]).length)));
     return fmt;
 }
+
+// 从这里往后都可以删掉了
 
 //异步加载背景
 

@@ -325,9 +325,9 @@ body {
 }
 
 #background-small {
-    filter: blur(5px);
-    transform: scale(1.05);
-    background-image: url("#"); /* 将图床或服务器中图片的http地址粘过来 */
+    /* filter: blur(5px); */
+    /* transform: scale(1.05); */
+    background-image: url("http://q933ex99o.bkt.clouddn.com/bg-original.jpg?e=1587645530&token=tBdAjpG77UeSJ19ZZ1_xhH4cDjpQzj7JWI2y7rUb:DUJU1dwKTMQI6pCB7vJ2hs1EqaM=&attname="); /* 将图床或服务器中图片的http地址粘在""中 */
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
