@@ -327,7 +327,7 @@ body {
 #background-small {
     /* filter: blur(5px); */
     /* transform: scale(1.05); */
-    background-image: url("http://q933ex99o.bkt.clouddn.com/bg-original.jpg?e=1587645530&token=tBdAjpG77UeSJ19ZZ1_xhH4cDjpQzj7JWI2y7rUb:DUJU1dwKTMQI6pCB7vJ2hs1EqaM=&attname="); /* 将图床或服务器中图片的http地址粘在""中 */
+    background-image: url("https://marsqz.oss-cn-beijing.aliyuncs.com/img/bg-original.jpg"); /* 将图床或服务器中图片的http地址粘在""中（原先是七牛云的临时图床“http://q933ex99o.bkt.clouddn.com/bg-original.jpg?e=1589518310&token=tBdAjpG77UeSJ19ZZ1_xhH4cDjpQzj7JWI2y7rUb:RVzG3REwbFlvyDpaZH2mJW4NbYA=&attname=”，现在是阿里云的图床） */
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;

@@ -36,7 +36,7 @@ function getAchives() {
     })
 }
 
-// 经典台词
+// 经典台词（一个台词接口）
 
 function getHitokoto() {
     $.ajax({
